@@ -1,2 +1,2 @@
 # HackerRank
-## My solutions to HackerRank using JavaScript
+#### My solutions to HackerRank using JavaScript
