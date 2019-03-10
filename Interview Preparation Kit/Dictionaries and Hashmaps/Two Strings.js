@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/two-strings/
 function twoStrings(s1, s2) {
   var matchFound = "NO";
 
