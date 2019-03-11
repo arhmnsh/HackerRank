@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/mini-max-sum
 function miniMaxSum(arr) {
   arr.reduce((accumulator, currentValue, currentIndex, array) =>
     currentIndex !== 1 ? accumulator + currentValue : accumulator
