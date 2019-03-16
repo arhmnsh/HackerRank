@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/common-child
 function commonChild(s1, s2) {
   let arr = [Array(s2.length + 1).fill(0)];
   [...s1].forEach((v1, i) => {
