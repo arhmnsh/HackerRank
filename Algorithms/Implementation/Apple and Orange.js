@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/apple-and-orange
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
   let appleDistances = apples.map(apple => a + apple);
   let orangeDistances = oranges.map(orange => b + orange);
