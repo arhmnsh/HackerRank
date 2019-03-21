@@ -30,3 +30,5 @@ function sherlockAndAnagrams(s) {
   // console.log('count', count);
   return count;
 }
+
+sherlockAndAnagrams('abba');
