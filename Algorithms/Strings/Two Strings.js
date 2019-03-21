@@ -14,3 +14,5 @@ function twoStrings(s1, s2) {
 
   return matchFound;
 }
+
+twoStrings('hello', 'world');
